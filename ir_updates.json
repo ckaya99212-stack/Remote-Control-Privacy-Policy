@@ -1,0 +1,96 @@
+
+{
+  "tv": {
+    "hisense": [
+      {
+        "POWER": "IR_HIS_0xFD20",
+        "SOURCE": "IR_HIS_0xFD21",
+        "OK": "IR_HIS_0xFD25",
+        "MENU": "IR_HIS_0xFD30"
+      },
+      {
+        "POWER": "IR_HIS_0xAF01_ALT",
+        "SOURCE": "IR_HIS_0xAF02",
+        "OK": "IR_HIS_0xAF05"
+      }
+    ],
+    "tcl": [
+      {
+        "POWER": "IR_TCL_0x45BB",
+        "VOL_UP": "IR_TCL_0x45BC",
+        "OK": "IR_TCL_0x45BD"
+      }
+    ],
+    "jbl": [
+      {
+        "POWER": "IR_JBL_BAR_PWR",
+        "VOL_UP": "IR_JBL_BAR_VUP",
+        "VOL_DOWN": "IR_JBL_BAR_VDN",
+        "SOURCE": "IR_JBL_BAR_SRC"
+      }
+    ],
+    "yamaha": [
+      {
+        "POWER": "IR_YAM_AUDIO_0x7A",
+        "VOL_UP": "IR_YAM_VUP",
+        "MUTE": "IR_YAM_MT"
+      }
+    ],
+    "nebula": [
+      {
+        "POWER": "IR_ANKER_NEB_PWR",
+        "MENU": "IR_ANKER_NEB_MNU",
+        "OK": "IR_ANKER_NEB_OK"
+      }
+    ],
+    "msi": [
+      {
+        "POWER": "IR_MSI_MON_PWR",
+        "MENU": "IR_MSI_JOY_PUSH",
+        "SOURCE": "IR_MSI_INPUT"
+      }
+    ]
+  },
+  "satellite": {
+    "mag_4k": [
+      {
+        "POWER": "IR_MAG_4K_PWR",
+        "MENU": "IR_MAG_MNU",
+        "OK": "IR_MAG_OK",
+        "BACK": "IR_MAG_RTN"
+      }
+    ],
+    "formuler_z": [
+      {
+        "POWER": "IR_FORM_Z11_PWR",
+        "GUIDE": "IR_FORM_EPG",
+        "RED": "IR_FORM_R"
+      }
+    ],
+    "tivo": [
+      {
+        "POWER": "IR_TIVO_STREAM_PWR",
+        "HOME": "IR_TIVO_HM",
+        "BACK": "IR_TIVO_BK"
+      }
+    ]
+  },
+  "ac": {
+    "daikin_inv": [
+      "PROTO_DAIKIN_2025_URURU",
+      "PROTO_DAIKIN_SENSIRA_NEW"
+    ],
+    "mitsubishi_heavy": [
+      "PROTO_MHI_JET_AIR_25",
+      "PROTO_MHI_SRK_SERIES"
+    ],
+    "gree_lomo": [
+      "PROTO_GREE_LOMO_N3",
+      "PROTO_GREE_PULAR_V2"
+    ],
+    "baymak_elegant": [
+      "PROTO_GREE_OEM_BAYMAK_V3",
+      "PROTO_AUX_OEM_BAYMAK_V2"
+    ]
+  }
+}
